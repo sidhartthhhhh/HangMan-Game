@@ -26,7 +26,7 @@ A simple and fun browser-based Hangman game built using **HTML**, **CSS**, and *
 
 ## 📂 Folder Structure
 
-```bash
+
 ├── index.html
 ├── style.css
 ├── scripts/
