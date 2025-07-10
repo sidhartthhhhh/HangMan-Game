@@ -23,7 +23,7 @@ A simple and fun browser-based Hangman game built using **HTML**, **CSS**, and *
 - **API Used** – [puzzle.mead.io](https://puzzle.mead.io/)
 
 ---
-
+```bash
 ## 📂 Folder Structure
 
 
@@ -35,6 +35,10 @@ A simple and fun browser-based Hangman game built using **HTML**, **CSS**, and *
 │   └── request.js
 ├── assets/
 │   └── hangman-game.png
+
+```
+
+
 🧪 How to Run Locally
 Clone the repository:
 
